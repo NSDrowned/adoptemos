@@ -1,2 +1,2 @@
-# adoptemos
+# Adoptemos.org
 Adoptemos.org
